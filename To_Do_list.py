@@ -1,6 +1,4 @@
 
-# Simple To-Do List Program with Pre-added Tasks
-
 todo_list = ["Gaming", "Writing", "Reading"]
 
 def show_menu():
